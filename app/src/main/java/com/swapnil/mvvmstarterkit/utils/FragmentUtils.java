@@ -8,9 +8,6 @@ import androidx.fragment.app.FragmentTransaction;
 
 import com.swapnil.mvvmstarterkit.R;
 
-/**
- * Created by leftrightmind on 12/10/17.
- */
 
 public class FragmentUtils {
 

@@ -1,8 +1,6 @@
 package com.swapnil.mvvmstarterkit.utils;
 
-/**
- * Created by leftrightmind on 26/10/17.
- */
+
 
 import android.annotation.TargetApi;
 import android.content.res.AssetFileDescriptor;

@@ -11,9 +11,6 @@ import java.lang.reflect.Type;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * Created by leftrightmind on 22/02/17.
- */
 
 public class SharedPrefUtils {
 

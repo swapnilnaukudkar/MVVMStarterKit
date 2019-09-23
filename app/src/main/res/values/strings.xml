@@ -27,8 +27,7 @@
     //
     <string name="err_enter_email">Please enter an email address</string>
     <string name="err_enter_name">Please enter name</string>
-    <string name="about_us_desc">Preemadonna is a technology company building smart products, powering creative platform and inspiring self expression.\n\nThe Nailbot, our first nail art printing robot, automatically decorates nails instantly with a smartphone! Through our platforms and marketplace, Preemadonnas can express themselves in creative and original ways.\n\nPreemadonnas are DYNAMIC!\nWe are inventors, artists, makers, engineers, designers, athletes, teachers, leaders, storytellers, hackers and showstoppers\nWe come from all over the world in all shapes, sizes, ages and races. We are creators of technology - not just consumers.\n\nWe believe that being smart and feeling beautiful are not a contradiction. Our community is learning about the technology behind the Nailbot through our STE(A)M curriculum, Ambassador Programs \u0026 Partnerships with schools, Tech camps and Non-profits.</string>
-    <string name="about_us_heading">We are smart. We are beautiful. We invent the future.</string>
+
     <string name="about_us">About us</string>
     <string name="about">About</string>
     <string name="legal">Legal</string>
