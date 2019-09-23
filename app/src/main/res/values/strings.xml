@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">MVVMStarterKit</string>
+
+    <string name="err_enter_password">Please enter password</string>
+    <string name="err_enter_confirm_password">Please enter confirm password</string>
+    <string name="err_enter_dob">The DOB field is required</string>
+    <string name="err_enter_phone_no">Invalid phone number</string>
+    <string name="err_enter_otp">Please enter an OTP</string>
+    <string name="err_invalid_login_credentials">Invalid login credentials</string>
+
+    <string name="err_invalid_email">Invalid Email</string>
+    <string name="err_invalid_name">Invalid Name</string>
+    <string name="err_invalid_password">Password should be minimum 6 characters long</string>
+    <string name="err_invalid_confirm_password">Confirm Password should be minimum 6 characters long</string>
+    <string name="err_invalid_age">Invalid Age</string>
+    <string name="err_invalid_phone_no">Invalid phone number</string>
+    <string name="err_password_not_match">New Password and confirm password should match</string>
+
+
+    <!--network call error-->
+    <string name="err_unauthorised_user">Unauthorised user. Please login again.</string>
+    <string name="err_no_internet">The internet connection appears to be offline.</string>
+    <string name="err_conn_timeout_title">Connection Timeout</string>
+    <string name="err_conn_timeout_msg">Unable to complete request. Please try again later</string>
+    <string name="err_conn_timeout_positive_action">OK</string>
+    <string name="err_some_error">Some Error Occurred!</string>
+    //
+    <string name="err_enter_email">Please enter an email address</string>
+    <string name="err_enter_name">Please enter name</string>
+    <string name="about_us_desc">Preemadonna is a technology company building smart products, powering creative platform and inspiring self expression.\n\nThe Nailbot, our first nail art printing robot, automatically decorates nails instantly with a smartphone! Through our platforms and marketplace, Preemadonnas can express themselves in creative and original ways.\n\nPreemadonnas are DYNAMIC!\nWe are inventors, artists, makers, engineers, designers, athletes, teachers, leaders, storytellers, hackers and showstoppers\nWe come from all over the world in all shapes, sizes, ages and races. We are creators of technology - not just consumers.\n\nWe believe that being smart and feeling beautiful are not a contradiction. Our community is learning about the technology behind the Nailbot through our STE(A)M curriculum, Ambassador Programs \u0026 Partnerships with schools, Tech camps and Non-profits.</string>
+    <string name="about_us_heading">We are smart. We are beautiful. We invent the future.</string>
+    <string name="about_us">About us</string>
+    <string name="about">About</string>
+    <string name="legal">Legal</string>
+    <string name="faq">FAQ</string>
+    <string name="account">Account</string>
+
+</resources>

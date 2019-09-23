@@ -1,0 +1,132 @@
+<resources>
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:windowFullscreen">true</item>
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="TimePickerTheme" parent="Theme.AppCompat.Light.Dialog">
+        <item name="colorAccent">@color/nice_blue</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+
+    <style name="Button_Curved">
+        <item name="android:textSize">15sp</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textAllCaps">true</item>
+        <item name="android:elevation">4dp</item>
+        <item name="android:background">@drawable/warm_pink_button_background</item>
+
+    </style>
+
+    <style name="edittext_style">
+        <item name="android:textSize">15sp</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:lineSpacingExtra">0.02dp</item>
+        <item name="android:maxLines">1</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:imeOptions">flagNoExtractUi</item>
+        <item name="android:textColorHint">@color/colorPrimary</item>
+    </style>
+
+    <style name="textview_normal">
+        <item name="android:textSize">17sp</item>
+        <item name="android:textColor">@color/black_7e7</item>
+        <item name="android:lineSpacingExtra">0.02dp</item>
+    </style>
+
+    <style name="textInputLayout" parent="Widget.Design.TextInputLayout">
+        <!-- reference our hint & error styles -->
+        <item name="android:textColor">@color/black_7e7</item>
+        <item name="android:colorError">@color/red_color_picker</item>
+        <item name="android:textColorHint">@color/black_7e7</item>
+        <item name="colorControlNormal">@color/black_7e7</item>
+        <item name="colorControlActivated">@color/black_7e7</item>
+        <item name="colorControlHighlight">@color/black_7e7</item>
+    </style>
+
+    <!-- <style name="ErrorText" parent="TextAppearance.AppCompat">
+         <item name="android:textColor">@android:color/holo_red_dark</item>
+         <item name="android:textSize">16sp</item>
+     </style>
+
+     <style name="HintText" parent="TextAppearance.AppCompat">
+         <item name="android:textColor">@android:color/white</item>
+         <item name="android:textSize">14sp</item>
+     </style>
+     <style name="textInputLayout" parent="Widget.Design.TextInputLayout">
+     &lt;!&ndash; reference our hint & error styles &ndash;&gt;
+     <item name="hintTextAppearance">@style/HintText</item>
+     <item name="errorTextAppearance">@style/ErrorText</item>
+     <item name="android:textColor">@color/grey_efe</item>
+     <item name="android:textColorHint">@color/grey_efe</item>
+     <item name="colorControlNormal">@color/white</item>
+     <item name="colorControlActivated">@color/grey_efe</item>
+     <item name="colorControlHighlight">@color/grey_efe</item>
+ </style>
+ -->
+    <style name="textview_normal_sacramento">
+        <item name="android:textSize">28sp</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:lineSpacingExtra">0.02dp</item>
+        <item name="android:fontFamily">@font/sacramento</item>
+    </style>
+
+    <!--Bhagyawant added styles for dialog-->
+    <style name="PopTheme" parent="@android:style/Theme.DeviceDefault.Light.Dialog">
+        <item name="android:windowAnimationStyle">@style/PopTheme1</item>
+    </style>
+
+    <style name="PopTheme1">
+        <item name="android:windowEnterAnimation">@anim/pop_in</item>
+        <item name="android:windowExitAnimation">@anim/pop_out</item>
+    </style>
+
+
+    <style name="SideTheme" parent="@android:style/Theme.DeviceDefault.Light.Dialog">
+        <item name="android:windowAnimationStyle">@style/SideTheme1</item>
+    </style>
+
+    <style name="SideTheme1">
+        <item name="android:windowEnterAnimation">@anim/side_in</item>
+        <item name="android:windowExitAnimation">@anim/side_out</item>
+    </style>
+
+
+    <style name="SlideTheme" parent="@android:style/Theme.DeviceDefault.Light.Dialog">
+        <item name="android:windowAnimationStyle">@style/SlideTheme1</item>
+    </style>
+
+    <style name="SlideTheme1">
+        <item name="android:windowEnterAnimation">@anim/slide_in</item>
+        <item name="android:windowExitAnimation">@anim/slide_out</item>
+    </style>
+
+    <style name="ZoomTheme" parent="@android:style/Theme.DeviceDefault.Light.Dialog">
+        <item name="android:windowAnimationStyle">@style/ZoomTheme1</item>
+    </style>
+
+    <style name="ZoomTheme1">
+        <item name="android:windowEnterAnimation">@anim/zoom_in</item>
+        <!--item name="android:windowExitAnimation">@anim/zoom_out</item-->
+    </style>
+
+    <style name="EditText">
+        <item name="android:singleLine">true</item>
+        <item name="colorControlNormal">#FFFFFF</item>
+        <item name="colorControlActivated">#FFFFFF</item>
+        <item name="android:textColorPrimary">#FFFFFF</item>
+        <item name="android:textSize">14sp</item>
+    </style>
+
+    <style name="AppTheme.WhiteAccent">
+        <item name="colorAccent">@color/white</item> <!-- Whatever color you want-->
+    </style>
+
+
+</resources>

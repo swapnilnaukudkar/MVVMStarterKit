@@ -1,0 +1,32 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="unit_4dp">4dp</dimen>
+    <dimen name="unit_8dp">8dp</dimen>
+    <dimen name="unit_16sp">16sp</dimen>
+    <dimen name="unit_16dp">16dp</dimen>
+    <dimen name="dimens_5dp">5dp</dimen>
+    <dimen name="dimens_2dp">2dp</dimen>
+    <dimen name="dimens_165dp">165dp</dimen>
+    <dimen name="dimens_30dp">30dp</dimen>
+    <dimen name="dimens_40dp">40dp</dimen>
+    <dimen name="dimens_48dp">48dp</dimen>
+    <dimen name="dimens_105dp">105dp</dimen>
+
+
+    <dimen name="text_size_12sp">12sp</dimen>
+    <dimen name="text_size_18sp">18sp</dimen>
+    <dimen name="dimens_image">120dp</dimen>
+    <dimen name="dimens_image_small_width">80dp</dimen>
+    <dimen name="dimens_image_small_height">80dp</dimen>
+    <dimen name="dimens_image_width">120dp</dimen>
+    <dimen name="dimens_image_height">100dp</dimen>
+    <dimen name="dimens_big_image_width">170dp</dimen>
+    <dimen name="dimens_big_image_height">150dp</dimen>
+    <dimen name="dimens_biggest_image_width">190dp</dimen>
+    <dimen name="dimens_biggest_image_height">170dp</dimen>
+    <dimen name="unit_24dp">24dp</dimen>
+    <dimen name="text_margin">16dp</dimen>
+    <dimen name="image_size_make">264dp</dimen>
+</resources>
